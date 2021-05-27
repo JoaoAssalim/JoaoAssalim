@@ -1,8 +1,8 @@
 ### Hey👋
 
-I'm a young programmer, and I'm learning web programming💻
+I'm a young programmer, and I'm learning Python programming💻
 
-🌐 Solve your problems with intelligence❕
+🌐 Solve your problems with intelligence ❕
 
 - 🏠 From SP living in Ourinhos.
 - 💻 Programmer.
