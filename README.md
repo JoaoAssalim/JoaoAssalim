@@ -1,11 +1,21 @@
-### Hey👋
+### Hi there 👋, Opa, meu nome e Joao Assalim
+#### Sou um programador iniciante aprendendo python
+Tento criar projetos para colocar meus conhecimentos em pratica e para meu entretenimento
 
-I'm a young programmer, and I'm learning Python programming💻
+Skills: PYTHON
 
-🌐 Solve your problems with intelligence ❕
-
-- 🏠 From Brazil living in SP.
-- 💻 Programmer.
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Python 
 
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/coder.man_/)](https://www.instagram.com/coder.man_/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JoaoAssalim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/coder.man_//)  
+
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAssalim)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoAssalim&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/JoaoAssalim)  
+
+![Profile views](https://gpvc.arturio.dev/JoaoAssalim)  
