@@ -4,9 +4,7 @@ Tento criar projetos para colocar meus conhecimentos em pratica e para meu entre
 
 Skills: PYTHON
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Python 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JoaoAssalim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/coder.man_//)  
 
