@@ -1,6 +1,6 @@
-### Hi there 👋, Opa, meu nome e Joao Assalim
+### Hi there 👋,meu nome é Joao Assalim
 #### Sou um programador iniciante aprendendo python
-Tento criar projetos para colocar meus conhecimentos em pratica e para meu entretenimento
+Tento criar projetos para colocar meus conhecimentos em pratica.
 
 Skills: PYTHON
 
