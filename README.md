@@ -13,4 +13,3 @@ In this profile i'm making my portifolio, so stars them ;)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoAssalim&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/JoaoAssalim)  
