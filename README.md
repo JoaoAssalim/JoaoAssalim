@@ -2,9 +2,8 @@
 #### I'm a brasilian begginer programmer learning python
 In this profile i'm making my portifolio, so stars them ;)
 
-:man_technologist:No knowledge is enough
+- :man_technologist:No knowledge is enough
 
-Skills: PYTHON
 
 - 🌱 I’m currently learning Python 
 
