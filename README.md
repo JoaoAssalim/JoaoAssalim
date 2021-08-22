@@ -14,12 +14,6 @@
   <a href="https://www.instagram.com/joaoassalim_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:assalim.py@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
- 
- ### <i>Spotify Playing 🎧</i> 
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/search/sicko%20mode) 
-
-##
 
  
 </div>
