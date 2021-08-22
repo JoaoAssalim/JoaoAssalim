@@ -11,5 +11,4 @@ In this profile i'm making my portifolio, so stars them ;)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAssalim)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoAssalim&show_icons=true)  
 
