@@ -14,10 +14,11 @@
   <a href="https://github.com/JoaoAssalim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoAssalim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAssalim&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  <img align="center" alt="Joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-</div>
- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+## 🚀💻 Technologies & Tools
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   
   ##
  
