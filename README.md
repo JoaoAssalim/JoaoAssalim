@@ -1,4 +1,5 @@
 ## Hey there, João Assalim is here to save your day!
+<p align="left"><img src="https://komarev.com/ghpvc/?username=dexternatan" alt="dexternatan" /></p>
  <div>
  
  :computer: I'm Python Developer!
