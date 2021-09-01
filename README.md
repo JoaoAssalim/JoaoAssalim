@@ -1,4 +1,4 @@
-## Hey, My name is Joao Assalim
+## Hey there, João Assalim is here to save your day!
  <div>
   <a href="https://github.com/JoaoAssalim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoAssalim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
