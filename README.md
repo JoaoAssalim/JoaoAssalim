@@ -2,7 +2,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=JoaoAssalim" alt="JoaoAssalim" /></p>
  <div>
  
- :computer: I'm Python Developer!
+ :computer: I'm turning Python Developer!
 
 :house_with_garden: I’m from Brazil.
 
