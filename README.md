@@ -1,8 +1,9 @@
 ## Hey there, João Assalim is here to save your day!💻
 <p align="left"><img src="https://komarev.com/ghpvc/?username=JoaoAssalim" alt="JoaoAssalim" /></p>
- <div>
- <img alt="GitHub followers" src="https://img.shields.io/github/followers/JoaoAssalim?style=social">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/JoaoAssalim?style=social">
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/JoaoAssalim?style=social">
+ <div>
+
  :computer: I'm turning Python Developer!
 
 :house_with_garden: I’m from Brazil.
