@@ -1,10 +1,10 @@
-## Hey there, João Assalim is here to save your day!💻
+## Hey there, I'm João Assalim!💻
 <p align="left"><img src="https://komarev.com/ghpvc/?username=JoaoAssalim" alt="JoaoAssalim" /></p>
  <div>
 
- :computer: I'm turning Python Developer!
+ :computer: I'm becoming a Python Developer!
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: From Brazil.
 
 :books: I’m currently learning python.
 
