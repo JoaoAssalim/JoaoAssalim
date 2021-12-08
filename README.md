@@ -22,10 +22,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 <br>
+ 
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/joaoassalim_"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="joaoassalim_" /></a></p><br><br><br>
- <br><br>
-
+<p><a href="https://ko-fi.com/joaoassalim_"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="joaoassalim_" /></a></p><br><br>
+ 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoassalim&show_icons=true&locale=en&layout=compact" alt="joaoassalim" /></p><br><br>
 <br>
 <br><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaoassalim&show_icons=true&locale=en" alt="joaoassalim" /></p><br>
