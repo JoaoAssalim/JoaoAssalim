@@ -1,31 +1,24 @@
-## Hey there, I'm João Assalim!💻
-<p align="left"><img src="https://komarev.com/ghpvc/?username=JoaoAssalim" alt="JoaoAssalim" /></p>
- <div>
+<h1 align="center">Hello, I'm João Assalim</h1>
+<h3 align="center">Becomming a Python Programmer</h3>
 
- :computer: I'm becoming a Python Developer!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joaoassalim&label=Profile%20views&color=00ff2a&style=flat" alt="joaoassalim" /> </p>
 
-:house_with_garden: From Brazil.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joaoassalim" alt="joaoassalim" /></a> </p>
 
-:books: I’m currently learning python.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/joaoassalim_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joaoassalim_" height="30" width="40" /></a>
+</p>
 
-:outbox_tray: 2021 Goals: create a great project and find a new job.
- 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-   <a href="https://www.youtube.com/channel/UCh_a5e9jkx5uxYKZLYOBFvw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/joaoassalim_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:assalim.py@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/joaoassalim_"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="joaoassalim_" /></a></p><br><br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoassalim&show_icons=true&locale=en&layout=compact" alt="joaoassalim" /></p>
 
-💻 **Languages and Tools:**  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaoassalim&show_icons=true&locale=en" alt="joaoassalim" /></p>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
- 
-  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joaoassalim&theme=dark" alt="joaoassalim" /></p>
 
- 
-
-   
-## ⚡ GitHub Stats
-  <a href="https://github.com/JoaoAssalim">
-<a href="https://github.com/JoaoAssalim/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoAssalim&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" /></a>
-<a href="https://github.com/JoaoAssalim/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAssalim&layout=compact&theme=dark&hide_border=true" /></a> 
