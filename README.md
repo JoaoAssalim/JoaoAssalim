@@ -1,5 +1,7 @@
 ## Hey there, I'm João Assalim!💻
-<p align="left"><img src="https://komarev.com/ghpvc/?username=JoaoAssalim" alt="JoaoAssalim" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joaoassalim&label=Profile%20views&color=00ff2a&style=flat" alt="joaoassalim" /> </p>
+
  <div>
 
  :computer: I'm becoming a Python Developer!
@@ -10,7 +12,6 @@
 
 :outbox_tray: 2021 Goals: create a great project and find a new job.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joaoassalim&label=Profile%20views&color=00ff2a&style=flat" alt="joaoassalim" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
