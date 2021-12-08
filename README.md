@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaoassalim&label=Profile%20views&color=00ff2a&style=flat" alt="joaoassalim" /> </p>
 
  <div>
-
+<h3 align="left">About me:</h3>
  :computer: I'm becoming a Python Developer!
 
 :house_with_garden: From Brazil.
