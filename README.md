@@ -1,5 +1,14 @@
-<h1 align="center">Hello, I'm João Assalim</h1>
-<h3 align="center">Becomming a Python Programmer</h3>
+## Hey there, I'm João Assalim!💻
+<p align="left"><img src="https://komarev.com/ghpvc/?username=JoaoAssalim" alt="JoaoAssalim" /></p>
+ <div>
+
+ :computer: I'm becoming a Python Developer!
+
+:house_with_garden: From Brazil.
+
+:books: I’m currently learning python.
+
+:outbox_tray: 2021 Goals: create a great project and find a new job.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaoassalim&label=Profile%20views&color=00ff2a&style=flat" alt="joaoassalim" /> </p>
 
