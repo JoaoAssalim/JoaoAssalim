@@ -8,8 +8,6 @@
 
 :house_with_garden: From Brazil.
 
-:books: I’m currently learning python.
-
 :outbox_tray: 2022 Goals: create a great project and find a internship.
 
 
