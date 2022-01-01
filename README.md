@@ -4,7 +4,7 @@
 
  <div>
 <h3 align="left">About me:</h3>
- :computer: I'm becoming a Python Developer!
+ :computer: I'm becoming a Python Developer👨🏻‍💻 | Data Science📊!
 
 :house_with_garden: From Brazil.
 
