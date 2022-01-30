@@ -1,9 +1,5 @@
 ## Hey there, I'm João Assalim!💻
 
-<p>
-   <img src="https://i.imgur.com/mmcKM9V.jpg" title="source: imgur.com" alt="Setup" height="50%"/>
-</p>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaoassalim&label=Profile%20views&color=00ff2a&style=flat" alt="joaoassalim" /> </p>
 
