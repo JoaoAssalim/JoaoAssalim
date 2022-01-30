@@ -18,7 +18,7 @@
 <a href="https://instagram.com/joaoassalim_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joaoassalim_" height="30" width="40" /></a>
  <a href="https://dev.to/joaoassalim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="joaoassalim" height="30" width="40" /></a>
 <a href="https://twitter.com/assalimz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="assalimz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/joao assalim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UCh_a5e9jkx5uxYKZLYOBFvw" height="30" width="40" /></a>
+
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
