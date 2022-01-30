@@ -22,6 +22,12 @@
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 <br>
  
+ ### <i>Spotify Playing 🎧</i> 
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/222ukddev4nsfnyicjoejaxzy) 
+
+##
+ 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/joaoassalim_"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="joaoassalim_" /></a></p><br><br>
  
