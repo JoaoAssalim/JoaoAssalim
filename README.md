@@ -1,7 +1,7 @@
 ## Hey there, I'm João Assalim!💻
 
 <p>
-   <img src="https://i.imgur.com/mmcKM9V.jpg" title="source: imgur.com" alt="Setup" width="100%"/>
+   <img src="https://i.imgur.com/mmcKM9V.jpg" title="source: imgur.com" alt="Setup" height="50%"/>
 </p>
 
 
