@@ -9,7 +9,7 @@
 
 :house_with_garden: From Brazil.
 
-:outbox_tray: 2022 Goals: create a great project and find a internship.
+:outbox_tray: 2022 Goals: Find a Job/Internship to improve my skills.
 
 
 
