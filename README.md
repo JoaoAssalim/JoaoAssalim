@@ -8,18 +8,18 @@ __Eu sou um programador em python brasileiro, atualmente estou cursando seguran√
 <p align="left">
 <a href="https://instagram.com/joaoassalim_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joaoassalim_" height="30" width="40" /></a>
  <a target="_blank" href="https://www.linkedin.com/in/joao-assalim-927959220/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedIn&logoColor=blue" />
+  <img align="left" alt="LinkdeIN" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 
 ## :star: Tecnologias nas quais tenho maior conhecimento :star: ##
- [![logo python](https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=python&logoColor=yellow)](#)
+ [![logo python](https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=python&logoColor=white)](#)
  [![logo github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
  
  ## :books: Tecnologias que uso e estou me desenvolvendo ##
   [![logo pandas](https://img.shields.io/badge/Pandas-100000?style=for-the-badge&logo=pandas&logoColor=white)](#)
-  [![logo numpy](https://img.shields.io/badge/Numpy-100000?style=for-the-badge&logo=numpy&logoColor=blue)](#)
-  [![logo jupyter](https://img.shields.io/badge/Jupyter-100000?style=for-the-badge&logo=jupyter&logoColor=orange)](#)
+  [![logo numpy](https://img.shields.io/badge/Numpy-100000?style=for-the-badge&logo=numpy&logoColor=white)](#)
+  [![logo jupyter](https://img.shields.io/badge/Jupyter-100000?style=for-the-badge&logo=jupyter&logoColor=white)](#)
 
 ## :white_check_mark: Estat√≠sticas do perfil ##
 
