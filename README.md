@@ -20,13 +20,10 @@
 
 
 ## :star: Tecnologias nas quais tenho maior conhecimento :star: ##
- <br>
-  [![logo python](https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=python&logoColor=white)](#)
-  [![logo github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
-<br>
+ [![logo python](https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=python&logoColor=white)](#)
+ [![logo github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
  
  ## :books: Tecnologias que uso e estou me desenvolvendo ##
- [![logo python](https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=python&logoColor=white)](#)
   [![logo pandas](https://img.shields.io/badge/Pandas-100000?style=for-the-badge&logo=pandas&logoColor=white)](#)
   [![logo numpy](https://img.shields.io/badge/Numpy-100000?style=for-the-badge&logo=numpy&logoColor=white)](#)
   [![logo jupyter](https://img.shields.io/badge/Jupyter-100000?style=for-the-badge&logo=jupyter&logoColor=white)](#)
