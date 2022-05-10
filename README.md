@@ -19,12 +19,10 @@
  <a href="https://dev.to/joaoassalim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="joaoassalim" height="30" width="40" /></a>
 
 
-</p>
-<br>
 ## :star: Tecnologias nas quais tenho maior conhecimento :star: ##
  <br>
- [![logo python](https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=python&logoColor=white)](#)
- [![logo github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
+  [![logo python](https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=python&logoColor=white)](#)
+  [![logo github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
 <br>
  
  ## :books: Tecnologias que uso e estou me desenvolvendo ##
