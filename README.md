@@ -1,22 +1,12 @@
-## Hey there, I'm João Assalim!💻
+# Opaa, sou o João Assalim :space_invader:
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joaoassalim&label=Profile%20views&color=00ff2a&style=flat" alt="joaoassalim" /> </p>
-
- <div>
-<h3 align="left">About me:</h3>
- :computer: I'm becoming a Python Developer👨🏻‍💻 | Information Security🛡️!
-
-:house_with_garden: From Brazil.
-
-:outbox_tray: 2022 Goals: Find a Job/Internship to improve my skills.
+__Eu sou um programador em python brasileiro, atualmente estou cursando segurança da informação, mas estudo para seguir na área de analise de dados e machine learning. No meu tempo livre gosto de ouvir música, programar e assistir videos no youtube.__
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Me segue aii:</h3>
 <p align="left">
 <a href="https://instagram.com/joaoassalim_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joaoassalim_" height="30" width="40" /></a>
- <a href="https://dev.to/joaoassalim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="joaoassalim" height="30" width="40" /></a>
 
 
 ## :star: Tecnologias nas quais tenho maior conhecimento :star: ##
@@ -28,7 +18,7 @@
   [![logo numpy](https://img.shields.io/badge/Numpy-100000?style=for-the-badge&logo=numpy&logoColor=white)](#)
   [![logo jupyter](https://img.shields.io/badge/Jupyter-100000?style=for-the-badge&logo=jupyter&logoColor=white)](#)
 
-## :white_check_mark: Minhas estatísticas ##
+## :white_check_mark: Estatísticas do perfil ##
 
 [![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoAssalim&theme=solarized_dark)](#)
  
