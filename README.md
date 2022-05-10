@@ -6,7 +6,7 @@ __Eu sou um programador em python brasileiro, atualmente estou cursando seguran√
 
 <h3 align="left">Me segue aii:</h3>
 <p align="left">
-<a href="https://instagram.com/joaoassalim_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joaoassalim_" height="30" width="40" /></a>
+<a href="https://instagram.com/joaoassalim_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=instagram&logoColor=purple" alt="joaoassalim_" height="30" width="40" /></a>
  <a target="_blank" href="https://www.linkedin.com/in/joao-assalim-927959220/">
   <img align="left" alt="LinkdeIN" src="https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedIn&logoColor=blue" />
 </a>
