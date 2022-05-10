@@ -7,6 +7,7 @@ __Eu sou um programador em python brasileiro, atualmente estou cursando seguran√
 <h3 align="left">Me segue aii:</h3>
 <p align="left">
 <a href="https://instagram.com/joaoassalim_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joaoassalim_" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/joao-assalim-927959220/" target="blank"><img align="center" src="https://icons8.com.br/icon/RvzNyBfqOKDa/linkedin-circundado" alt="joaoassalim_" height="30" width="40" /></a>
 
 
 ## :star: Tecnologias nas quais tenho maior conhecimento :star: ##
@@ -22,6 +23,3 @@ __Eu sou um programador em python brasileiro, atualmente estou cursando seguran√
 
 [![Card mostrando estat√≠sticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoAssalim&theme=solarized_dark)](#)
  
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/joaoassalim_"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="joaoassalim_" /></a></p><br><br>
-
