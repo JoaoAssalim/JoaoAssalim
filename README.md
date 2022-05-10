@@ -23,6 +23,6 @@ __Eu sou um programador em python brasileiro, atualmente estou cursando seguran�
 
 ## :white_check_mark: Estatísticas do perfil ##
 
-[![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoAssalim&theme=solarized_dark)](#)
+[![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoAssalim&theme=dark)](#)
 
 
