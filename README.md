@@ -17,9 +17,7 @@ __Eu sou um programador em python brasileiro, atualmente estou cursando seguran√
  [![logo github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
  
  ## :books: Tecnologias que uso e estou me desenvolvendo ##
-  [![logo pandas](https://img.shields.io/badge/Pandas-100000?style=for-the-badge&logo=pandas&logoColor=white)](#)
   [![logo numpy](https://img.shields.io/badge/Numpy-100000?style=for-the-badge&logo=numpy&logoColor=blue)](#)
-  [![logo jupyter](https://img.shields.io/badge/Jupyter-100000?style=for-the-badge&logo=jupyter&logoColor=orange)](#)
 
 ## :white_check_mark: Estat√≠sticas do perfil ##
 
