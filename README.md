@@ -18,7 +18,6 @@ No meu tempo livre gosto de ouvir música, programar e assistir videos no youtub
  [![logo github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
  
  ## :books: Tecnologias que uso e estou me desenvolvendo ##
-  [![logo numpy](https://img.shields.io/badge/Numpy-100000?style=for-the-badge&logo=numpy&logoColor=blue)](#)
   [![logo git](https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=orange)](#)
 
 ## :white_check_mark: Estatísticas do perfil ##
