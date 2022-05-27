@@ -5,7 +5,7 @@ No meu tempo livre gosto de ouvir música, programar e assistir videos no youtub
 
 
 
-## 📲: Redes Sociais :computer: ##
+## Redes Sociais 📲 ##
 <p align="left">
 <a href="https://instagram.com/joaoassalim_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=instagram&logoColor=purple" alt="joaoassalim_"/></a>
  <a target="_blank" href="https://www.linkedin.com/in/joao-assalim-927959220/">
