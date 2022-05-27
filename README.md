@@ -19,6 +19,7 @@ No meu tempo livre gosto de ouvir música, programar e assistir videos no youtub
  
  ## :books: Tecnologias que uso e estou me desenvolvendo ##
   [![logo git](https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=orange)](#)
+  [![logo beatifulsoup](https://img.shields.io/badge/BeatifulSoup-100000?style=for-the-badge&logo=beatifulsoup&logoColor=blue)](#)
 
 ## :white_check_mark: Estatísticas do perfil ##
 
