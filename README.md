@@ -19,10 +19,11 @@ No meu tempo livre gosto de ouvir música e programar__
  <img align="center" alt="python" src="https://img.shields.io/badge/Python-E34F26?style=for-the-badge&logo=python&logoColor=yellow" />
  
  ## :books: Tecnologias que uso e estou me desenvolvendo ##
- <img align="center" alt="git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=orange" />
- <img align="center" alt="pandas" src="https://img.shields.io/badge/Pandas-E34F26?style=for-the-badge&logo=pandas&logoColor=darkblue" />
- <img align="center" alt="numpy" src="https://img.shields.io/badge/Numpy-E34F26?style=for-the-badge&logo=numpy&logoColor=yellow" />
-
+ <div style="display: inline_block">
+     <img align="center" alt="git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=orange" />
+     <img align="center" alt="pandas" src="https://img.shields.io/badge/Pandas-E34F26?style=for-the-badge&logo=pandas&logoColor=darkblue" />
+     <img align="center" alt="numpy" src="https://img.shields.io/badge/Numpy-E34F26?style=for-the-badge&logo=numpy&logoColor=yellow" />
+</div><br/>
 ## :white_check_mark: Estatísticas do perfil ##
 
 [![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoAssalim&theme=solarized_dark)](#)
