@@ -22,7 +22,7 @@ No meu tempo livre gosto de ouvir música e programar__
  ## :books: Tecnologias que uso e estou me desenvolvendo ##
   [![logo git](https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=orange)](#)
   [![logo html](https://img.shields.io/badge/HTML5-100000?style=for-the-badge&logo=html5&logoColor=orange)](#)
-  [![logo pandas](https://img.shields.io/badge/Pandas-100000?style=for-the-badge&logo=pandas&logoColor=black)](#)
+  [![logo pandas](https://img.shields.io/badge/Pandas-100000?style=for-the-badge&logo=pandas&logoColor=blue)](#)
   [![logo Numpy](https://img.shields.io/badge/Numpy-100000?style=for-the-badge&logo=numpy&logoColor=yellow)](#)
 
 ## :white_check_mark: Estatísticas do perfil ##
