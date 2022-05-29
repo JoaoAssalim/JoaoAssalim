@@ -16,7 +16,7 @@ No meu tempo livre gosto de ouvir música e programar__
 
 
 ## :star: Tecnologias nas quais tenho maior conhecimento :star: ##
- [![logo python](https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=python&logoColor=yellow)](#)
+ <img align="center" alt="python" src="https://img.shields.io/badge/Python-E34F26?style=for-the-badge&logo=python&logoColor=yellow" />
  [![logo github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
  
  ## :books: Tecnologias que uso e estou me desenvolvendo ##
