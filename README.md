@@ -16,11 +16,11 @@ No meu tempo livre gosto de ouvir música e programar__
 
 
 ## :star: Tecnologias nas quais tenho maior conhecimento :star: ##
- <img align="center" alt="python" src="https://img.shields.io/badge/Python-fcea00?style=for-the-badge&logo=python&logoColor=blue" />
+ <img align="center" alt="python" src="https://img.shields.io/badge/Python-16537e?style=for-the-badge&logo=python&logoColor=yellow" />
  
  ## :books: Tecnologias que uso e estou me desenvolvendo ##
  <div style="display: inline_block">
-     <img align="center" alt="git" src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=orange" />
+     <img align="center" alt="git" src="https://img.shields.io/badge/Git-16537e?style=for-the-badge&logo=git&logoColor=orange" />
      <img align="center" alt="pandas" src="https://img.shields.io/badge/Pandas-16537e?style=for-the-badge&logo=pandas&logoColor=white" />
      <img align="center" alt="numpy" src="https://img.shields.io/badge/Numpy-16537e?style=for-the-badge&logo=numpy&logoColor=yellow" />
 </div><br/>
