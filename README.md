@@ -21,6 +21,7 @@ No meu tempo livre gosto de ouvir música e programar__
  
  ## :books: Tecnologias que uso e estou me desenvolvendo ##
   [![logo git](https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=orange)](#)
+  [![logo html](https://img.shields.io/badge/HTML-100000?style=for-the-badge&logo=html&logoColor=orange)](#)
 
 ## :white_check_mark: Estatísticas do perfil ##
 
