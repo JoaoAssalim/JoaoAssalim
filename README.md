@@ -17,13 +17,11 @@ No meu tempo livre gosto de ouvir música e programar__
 
 ## :star: Tecnologias nas quais tenho maior conhecimento :star: ##
  <img align="center" alt="python" src="https://img.shields.io/badge/Python-E34F26?style=for-the-badge&logo=python&logoColor=yellow" />
- [![logo github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
  
  ## :books: Tecnologias que uso e estou me desenvolvendo ##
-  [![logo git](https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=orange)](#)
-  [![logo html](https://img.shields.io/badge/HTML5-100000?style=for-the-badge&logo=html5&logoColor=orange)](#)
-  [![logo pandas](https://img.shields.io/badge/Pandas-100000?style=for-the-badge&logo=pandas&logoColor=blue)](#)
-  [![logo Numpy](https://img.shields.io/badge/Numpy-100000?style=for-the-badge&logo=numpy&logoColor=yellow)](#)
+ <img align="center" alt="git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=orange" />
+ <img align="center" alt="pandas" src="https://img.shields.io/badge/Pandas-E34F26?style=for-the-badge&logo=pandas&logoColor=darkblue" />
+ <img align="center" alt="numpy" src="https://img.shields.io/badge/Numpy-E34F26?style=for-the-badge&logo=numpy&logoColor=yellow" />
 
 ## :white_check_mark: Estatísticas do perfil ##
 
