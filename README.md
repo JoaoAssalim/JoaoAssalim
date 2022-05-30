@@ -24,7 +24,8 @@ No meu tempo livre gosto de ouvir música e programar__
      <img align="center" alt="pandas" src="https://img.shields.io/badge/Pandas-16537e?style=for-the-badge&logo=pandas&logoColor=white" />
      <img align="center" alt="numpy" src="https://img.shields.io/badge/Numpy-16537e?style=for-the-badge&logo=numpy&logoColor=yellow" />
 </div>
-  ## :white_check_mark: Estatísticas do perfil ##
+  
+## :white_check_mark: Estatísticas do perfil: ##
 
 [![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoAssalim&theme=solarized_dark)](#)
 
