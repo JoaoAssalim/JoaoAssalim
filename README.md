@@ -1,4 +1,4 @@
-# :space_invader: Opaa, sou o João Assalim <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif">
+# :space_invader: Opaa, sou o João Assalim <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" style="width:24px;">
 
 __Eu sou um programador em python brasileiro, atualmente estou cursando segurança da informação.
 No meu tempo livre gosto de ouvir música e programar__
