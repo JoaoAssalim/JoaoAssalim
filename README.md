@@ -23,6 +23,7 @@ No meu tempo livre gosto de ouvir música e programar__
  <div style="display: inline_block">
      <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-16537e?style=for-the-badge&logo=css3&logoColor=blue" />
      <img align="center" alt="numpy" src="https://img.shields.io/badge/Numpy-16537e?style=for-the-badge&logo=numpy&logoColor=yellow" />
+     <img align="center" alt="pandas" src="https://img.shields.io/badge/Pandas-16537e?style=for-the-badge&logo=pandas&logoColor=white" />
      <img align="center" alt="git" src="https://img.shields.io/badge/Git-16537e?style=for-the-badge&logo=git&logoColor=orange" />
      <img align="center" alt="postgre" src="https://img.shields.io/badge/PostgreSQL-16537e?style=for-the-badge&logo=postgreSQL&logoColor=white" />
 </div>
