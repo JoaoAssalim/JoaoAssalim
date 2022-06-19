@@ -9,6 +9,7 @@ No meu tempo livre gosto de ouvir música e programar__
 <p align="left">
 <a href="https://instagram.com/joaoassalim_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=instagram&logoColor=purple" alt="joaoassalim_"/></a>
 <a target="_blank" href="https://www.linkedin.com/in/joaoassalim/"><img align="left" alt="LinkdeIN" src="https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedIn&logoColor=blue"/></a>
+<a target="_blank" href="https://wa.me/+55014997290453"><img align="left" alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-100000?style=for-the-badge&logo=WhatsApp&logoColor=green"/></a>
 
 
 ## :star: Tecnologias nas quais tenho maior conhecimento :star: ##
