@@ -32,5 +32,6 @@ No meu tempo livre gosto de ouvir música e programar__
 ## :white_check_mark: Estatísticas do perfil: ##
 
 [![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoAssalim&theme=solarized_dark)](#)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAssalim&theme=dark)](https://github.com/JoaoAssalim/github-readme-stats)
 
 
