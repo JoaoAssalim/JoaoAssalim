@@ -1,7 +1,7 @@
 # :space_invader: Opaa, sou o João Assalim
 
-__Eu sou um programador em python brasileiro, atualmente estou cursando segurança da informação.
-No meu tempo livre gosto de ouvir música e programar__
+__Sou um programador python brasileiro, atualmente estou cursando Fatec em segurança da informação.<br>
+No tempo livre gosto de ouvir música, programar e aprender novas tecnologias.__
 
 
 
