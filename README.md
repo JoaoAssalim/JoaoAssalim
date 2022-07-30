@@ -23,7 +23,7 @@ No tempo livre gosto de ouvir música, programar e aprender novas tecnologias.__
  
  ## :books: Tecnologias que uso e estou me desenvolvendo ##
  <div style="display: inline_block">
-     <img align="center" alt="C" src="https://img.shields.io/badge/C-16537e?style=for-the-badge&logo=C&logoColor=blue" />
+     <img align="center" alt="C++" src="https://img.shields.io/badge/C++-16537e?style=for-the-badge&logo=Cplusplus&logoColor=purple" />
      <img align="center" alt="git" src="https://img.shields.io/badge/Git-16537e?style=for-the-badge&logo=git&logoColor=orange" />
 </div>
   
