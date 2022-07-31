@@ -1,6 +1,6 @@
 # :space_invader: Opaa, sou o João Assalim
 
-__Sou um programador python brasileiro, atualmente estou cursando Fatec em segurança da informação.<br>
+__Sou um programador python brasileiro, atualmente estou cursando Fatec em Analise e desenvolvimento de sistemas.<br>
 No tempo livre gosto de ouvir música, programar e aprender novas tecnologias.__
 
 
