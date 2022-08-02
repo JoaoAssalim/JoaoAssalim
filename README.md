@@ -18,7 +18,6 @@ No tempo livre gosto de ouvir música, programar e aprender novas tecnologias.__
      <img align="center" alt="python" src="https://img.shields.io/badge/Python-16537e?style=for-the-badge&logo=python&logoColor=yellow" />
      <img align="center" alt="vscode" src="https://img.shields.io/badge/VsCode-16537e?style=for-the-badge&logo=VisualStudioCode&logoColor=blue"/>
      <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-16537e?style=for-the-badge&logo=github&logoColor=white" />
-     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-16537e?style=for-the-badge&logo=html5&logoColor=orange" />
  </div>
  
  ## :books: Tecnologias que uso e estou me desenvolvendo ##
