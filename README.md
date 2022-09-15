@@ -25,6 +25,8 @@ No tempo livre gosto de ouvir música, programar e aprender novas tecnologias.__
  <div style="display: inline_block">
      <img align="center" alt="Pandas" src="https://img.shields.io/badge/Pandas-16537e?style=for-the-badge&logo=Pandas&logoColor=blue" />
      <img align="center" alt="git" src="https://img.shields.io/badge/Git-16537e?style=for-the-badge&logo=git&logoColor=orange" />
+     <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-16537e?style=for-the-badge&logo=HTML5&logoColor=orange" />
+     <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-16537e?style=for-the-badge&logo=CSS3&logoColor=blue" />
 </div>
   
 ## :white_check_mark: Estatísticas do perfil: ##
