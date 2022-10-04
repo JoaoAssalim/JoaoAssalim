@@ -30,9 +30,5 @@ Gosto de participar de eventos de programação e tecnologia e no tempo livre go
 </div>
 
 
-  
-## :white_check_mark: Estatísticas do perfil: ##
-
-[![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoAssalim&theme=solarized_dark)](#)
-
+![snake gif](https://github.com/JoaoAssalim/JoaoAssalim/blob/output/github-contribution-grid-snake.svg)
 
