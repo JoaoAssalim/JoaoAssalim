@@ -1,16 +1,17 @@
 # :space_invader: Opaa, sou o João Assalim
 
-__Sou um programador python brasileiro, atualmente estou cursando Fatec em Analise e desenvolvimento de sistemas.<br>
-No tempo livre gosto de ouvir música, programar e aprender novas tecnologias.__
-
-
-
-## Redes Sociais 📲 ##
+__Sou um programador Python e C++, atualmente estou cursando Fatec em Analise e desenvolvimento de sistemas.<br>
+Gosto de participar de eventos de programação e tecnologia e no tempo livre gosto de ouvir música, programar e aprender novas tecnologias.__
 <div style="display: inline_block">
     <a href="https://instagram.com/joaoassalim_"><img src="https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=instagram&logoColor=purple" alt="joaoassalim_" /></a>
     <a href="https://www.linkedin.com/in/joaoassalim/"><img src="https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedIn&logoColor=blue" /></a>
     <a href="https://wa.me/+55014997290453"><img src="https://img.shields.io/badge/WhatsApp-100000?style=for-the-badge&logo=WhatsApp&logoColor=green" /></a>
 </div>
+
+## :trophy: Competições que participei
+
+- 19º colocado do InterFatecs 2022 ( Cod3rs )
+- Campeão Hackathon NASA 2022 - Bauru ( ClimAgro )
 
 
 ## :star: Tecnologias nas quais tenho maior conhecimento :star: ##
@@ -23,11 +24,12 @@ No tempo livre gosto de ouvir música, programar e aprender novas tecnologias.__
  
  ## :books: Tecnologias que uso e estou me desenvolvendo ##
  <div style="display: inline_block">
-     <img align="center" alt="Pandas" src="https://img.shields.io/badge/Pandas-16537e?style=for-the-badge&logo=Pandas&logoColor=blue" />
      <img align="center" alt="git" src="https://img.shields.io/badge/Git-16537e?style=for-the-badge&logo=git&logoColor=orange" />
      <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-16537e?style=for-the-badge&logo=HTML5&logoColor=orange" />
      <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-16537e?style=for-the-badge&logo=CSS3&logoColor=blue" />
 </div>
+
+
   
 ## :white_check_mark: Estatísticas do perfil: ##
 
