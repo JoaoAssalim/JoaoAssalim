@@ -7,6 +7,7 @@ Gosto de participar de eventos de programação e tecnologia e no tempo livre go
     <a href="https://www.linkedin.com/in/joaoassalim/"><img src="https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedIn&logoColor=blue" /></a>
     <a href="https://wa.me/+55014997290453"><img src="https://img.shields.io/badge/WhatsApp-100000?style=for-the-badge&logo=WhatsApp&logoColor=green" /></a>
 </div>
+<img src="https://www.codewars.com/users/JoaoAssalim/badges/micro"/>
 
 ## :trophy: Competições que participei
 
