@@ -12,7 +12,7 @@ Gosto de participar de eventos de programação e tecnologia e no tempo livre go
 ## :trophy: Competições que participei
 
 - 19º colocado do InterFatecs 2022 ( Cod3rs )
-- Campeão Hackathon NASA 2022 - Bauru ( ClimAgro )
+- Campeão Hackathon NASA 2022 regional Bauru ( ClimAgro )
 - SBC 2022 regional Bauru ( Cod3rs )
 
 
