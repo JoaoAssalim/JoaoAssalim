@@ -18,7 +18,6 @@
 # :star: Tecnologias que tenho conhecimento :star: ##
   <div style="display: inline_block">
      <img align="center" alt="python" src="https://img.shields.io/badge/Python-16537e?style=for-the-badge&logo=python&logoColor=yellow" />
-     <img align="center" alt="vscode" src="https://img.shields.io/badge/VsCode-16537e?style=for-the-badge&logo=VisualStudioCode&logoColor=blue"/>
      <img align="center" alt="C++" src="https://img.shields.io/badge/C++-16537e?style=for-the-badge&logo=Cplusplus&logoColor=purple" />
     <img align="center" alt="C" src="https://img.shields.io/badge/C-16537e?style=for-the-badge&logo=C&logoColor=blue" />
     <img align="center" alt="git" src="https://img.shields.io/badge/Git-16537e?style=for-the-badge&logo=git&logoColor=orange" />
