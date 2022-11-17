@@ -21,8 +21,13 @@
      <img align="center" alt="C++" src="https://img.shields.io/badge/C++-16537e?style=for-the-badge&logo=Cplusplus&logoColor=purple" />
     <img align="center" alt="C" src="https://img.shields.io/badge/C-16537e?style=for-the-badge&logo=C&logoColor=blue" />
     <img align="center" alt="git" src="https://img.shields.io/badge/Git-16537e?style=for-the-badge&logo=git&logoColor=orange" />
-     <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-16537e?style=for-the-badge&logo=HTML5&logoColor=orange" />
-     <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-16537e?style=for-the-badge&logo=CSS3&logoColor=blue" />
+ </div>
+ 
+
+# :books: Tecnologias na qual estou me desenvolvendo :books: ##
+<div style="display: inline_block">
+  <img align="center" alt="ruby" src="https://img.shields.io/badge/Ruby-16537e?style=for-the-badge&logo=ruby&logoColor=red" />
+  <img align="center" alt="goolang" src="https://img.shields.io/badge/Goolang-16537e?style=for-the-badge&logo=go&logoColor=blue" />
  </div>
  
 
