@@ -24,13 +24,6 @@
  </div>
  
 
-# :books: Tecnologias na qual estou me desenvolvendo :books: ##
-<div style="display: inline_block">
-  <img align="center" alt="ruby" src="https://img.shields.io/badge/Ruby-16537e?style=for-the-badge&logo=ruby&logoColor=red" />
-  <img align="center" alt="goolang" src="https://img.shields.io/badge/Goolang-16537e?style=for-the-badge&logo=go&logoColor=blue" />
- </div>
- 
-
 
 ![snake gif](https://github.com/JoaoAssalim/JoaoAssalim/blob/output/github-contribution-grid-snake.svg)
 
