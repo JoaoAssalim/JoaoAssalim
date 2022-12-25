@@ -1,4 +1,4 @@
-# :space_invader: Falaa ai dev, sou o João Assalim
+# :space_invader: Falaa ai dev, sou o João Assalim :space_invader:
 
  __💻Programador Python e C++ <br>📚 Cursando Fatec em Analise e desenvolvimento de sistemas <br>🏆Progrador Competitivo<br>🎧Apreciador de Musicas <br> ⌨️ Apreciador de Teconlogias<br>__
 <div style="display: inline_block">
@@ -8,7 +8,7 @@
     <a href="https://www.youtube.com/channel/UCVHfoyK48jxrVqwoFm-ew_g"><img src="https://img.shields.io/badge/YouTube-100000?style=for-the-badge&logo=YouTube&logoColor=red" /></a>
 </div>
 
-# :trophy: Competições que participei
+# :trophy: Competições que participei :trophy:
 
 🏅 19º colocado do InterFatecs 2022 ( Cod3rs ) <br>
 🥇Campeão Hackathon NASA 2022 Regional ( ClimAgro ) <br>
@@ -16,13 +16,13 @@
 
 
 # :star: Tecnologias que tenho conhecimento :star: ##
-  <div style="display: inline_block">
-     <img align="center" alt="python" src="https://img.shields.io/badge/Python-16537e?style=for-the-badge&logo=python&logoColor=yellow" />
-     <img align="center" alt="C++" src="https://img.shields.io/badge/C++-16537e?style=for-the-badge&logo=Cplusplus&logoColor=purple" />
-    <img align="center" alt="C" src="https://img.shields.io/badge/C-16537e?style=for-the-badge&logo=C&logoColor=blue" />
-    <img align="center" alt="git" src="https://img.shields.io/badge/Git-16537e?style=for-the-badge&logo=git&logoColor=orange" />
- </div>
+![Python](https://img.shields.io/badge/-Python-836FFF?style=for-the-badge&logo=Python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-836FFF?style=for-the-badge&logo=Cplusplus&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-836FFF?style=for-the-badge&logo=React&logoColor=white)
+![Expo](https://img.shields.io/badge/-Expo-836FFF?style=for-the-badge&logo=Expo&logoColor=white)
  
+# :books: Tecnologias que estou me desenvolvendo :books: ##
+![Firebase](https://img.shields.io/badge/-Firebase-6495ED?style=for-the-badge&logo=Firebase&logoColor=white)
 
 
 ![snake gif](https://github.com/JoaoAssalim/JoaoAssalim/blob/output/github-contribution-grid-snake.svg)
