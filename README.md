@@ -21,8 +21,7 @@
 ![React Native](https://img.shields.io/badge/-Git-836FFF?style=for-the-badge&logo=Git&logoColor=white)
  
 # :books: Tecnologias que estou me desenvolvendo :books: ##
-![React Native](https://img.shields.io/badge/-React%20Native-836FFF?style=for-the-badge&logo=React&logoColor=white)
-![Expo](https://img.shields.io/badge/-Expo-836FFF?style=for-the-badge&logo=Expo&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-836FFF?style=for-the-badge&logo=MySQL&logoColor=white)
 
 
 ![snake gif](https://github.com/JoaoAssalim/JoaoAssalim/blob/output/github-contribution-grid-snake.svg)
