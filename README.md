@@ -1,6 +1,6 @@
 # :space_invader: Falaa ai dev, sou o João Assalim :space_invader:
 
- __💻Programador Python e C++ <br>📚 Cursando Fatec em Analise e desenvolvimento de sistemas <br>🏆Progrador Competitivo<br>🎧Apreciador de Musicas <br> ⌨️ Apreciador de Teconlogias<br>__
+ __💻Programador Python e C++ <br>📚 Cursando Fatec em Analise e desenvolvimento de sistemas <br>🏆Progrador Competitivo<br>__
 <div style="display: inline_block">
     <a href="https://instagram.com/joaoassalim_"><img src="https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=instagram&logoColor=purple" alt="joaoassalim_" /></a>
     <a href="https://www.linkedin.com/in/joaoassalim/"><img src="https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedIn&logoColor=blue" /></a>
