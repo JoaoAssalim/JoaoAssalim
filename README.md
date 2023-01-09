@@ -21,13 +21,11 @@
 # :star: Tecnologias que tenho conhecimento :star: ##
 ![Python](https://img.shields.io/badge/-Python-836FFF?style=for-the-badge&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-836FFF?style=for-the-badge&logo=Cplusplus&logoColor=white)
+![C99](https://img.shields.io/badge/-C-836FFF?style=for-the-badge&logo=C&logoColor=white)
 ![React Native](https://img.shields.io/badge/-Git-836FFF?style=for-the-badge&logo=Git&logoColor=white)
  
 # :books: Tecnologias que estou aprendendo :books: ##
 ![MySQL](https://img.shields.io/badge/-MySQL-9888fe?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-9888fe?style=for-the-badge&logo=Docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-9888fe?style=for-the-badge&logo=Linux&logoColor=white)
-
-
-![snake gif](https://github.com/JoaoAssalim/JoaoAssalim/blob/output/github-contribution-grid-snake.svg)
-
+![Java](https://img.shields.io/badge/-Java-9888fe?style=for-the-badge&logo=Java11&logoColor=white)
