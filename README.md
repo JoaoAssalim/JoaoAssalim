@@ -20,8 +20,6 @@
 # :star: Tecnologias que tenho conhecimento :star: ##
 ![Python](https://img.shields.io/badge/-Python-836FFF?style=for-the-badge&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-836FFF?style=for-the-badge&logo=Cplusplus&logoColor=white)
-![C99](https://img.shields.io/badge/-C-836FFF?style=for-the-badge&logo=C&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-836FFF?style=for-the-badge&logo=Git&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-836FFF?style=for-the-badge&logo=HTML5&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-836FFF?style=for-the-badge&logo=Javascript&logoColor=white)
  
@@ -31,3 +29,4 @@
 ![Scipy](https://img.shields.io/badge/-Scipy-9888fe?style=for-the-badge&logo=Scipy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-9888fe?style=for-the-badge&logo=Pandas&logoColor=white)
 ![Css](https://img.shields.io/badge/-Css3-9888fe?style=for-the-badge&logo=Css3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-836FFF?style=for-the-badge&logo=Git&logoColor=white)
