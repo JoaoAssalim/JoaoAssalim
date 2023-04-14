@@ -35,8 +35,8 @@
 ### Conecte-se Comigo:
 <div style="display: inline_block">
     <a href="https://instagram.com/joaoassalim_"><img src="https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=instagram&logoColor=purple" alt="joaoassalim_" /></a>
-    <a href="https://www.linkedin.com/in/joaoassalim/"><img src="https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedIn&logoColor=blue" /></a>
+    <a href="https://www.linkedin.com/in/assalimjoao/"><img src="https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedIn&logoColor=blue" /></a>
     <a href="https://wa.me/+55014997290453"><img src="https://img.shields.io/badge/WhatsApp-100000?style=for-the-badge&logo=WhatsApp&logoColor=green" /></a>
-     <a href="https://www.beecrowd.com.br/judge/pt/profile/635834"><img src="https://www.beecrowd.com.br/home/wp-content/uploads/2021/08/beecrowd__roxoHorClean-small-PNG-1.png" width=150px/></a>
+    <a href="https://www.beecrowd.com.br/judge/pt/profile/635834"><img src="https://www.beecrowd.com.br/home/wp-content/uploads/2021/08/beecrowd__roxoHorClean-small-PNG-1.png" width=150px/></a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DA22FF&height=90&section=footer"/>
