@@ -1,3 +1,6 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DA22FF&height=90&section=header"/>
+
+
 # :space_invader: Falaa ai dev, sou o João Assalim :space_invader:
 
  __💻Programador Python e C++ <br>📚 Cursando Fatec em Analise e desenvolvimento de sistemas <br>🏆Progrador Competitivo<br>__
@@ -18,15 +21,20 @@
 
 
 # :star: Tecnologias que tenho conhecimento :star: ##
-![Python](https://img.shields.io/badge/-Python-836FFF?style=for-the-badge&logo=Python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-836FFF?style=for-the-badge&logo=Cplusplus&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-836FFF?style=for-the-badge&logo=HTML5&logoColor=white)
-![Javascript](https://img.shields.io/badge/-Javascript-836FFF?style=for-the-badge&logo=Javascript&logoColor=white)
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" height="40" width="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40">
+ </div>
  
 # :books: Tecnologias que estou aprendendo :books: ##
-![Django](https://img.shields.io/badge/-Django-9888fe?style=for-the-badge&logo=Django&logoColor=white)
-![Spacy](https://img.shields.io/badge/-Spacy-9888fe?style=for-the-badge&logo=Spacy&logoColor=white)
-![Scipy](https://img.shields.io/badge/-Scipy-9888fe?style=for-the-badge&logo=Scipy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-9888fe?style=for-the-badge&logo=Pandas&logoColor=white)
-![Css](https://img.shields.io/badge/-Css3-9888fe?style=for-the-badge&logo=Css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-836FFF?style=for-the-badge&logo=Git&logoColor=white)
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" width="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40">
+ </div>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DA22FF&height=90&section=footer"/>
