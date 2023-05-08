@@ -11,7 +11,7 @@
 # :trophy: Competições que participei :trophy:
 
 🏅 19º colocado do InterFatecs 2022 ( Cod3rs ) <br>
-🥇Campeão Hackathon NASA 2022 Regional ( ClimAgro ) <br>
+🥇 Campeão Hackathon NASA 2022 Regional ( ClimAgro ) <br>
 🏅 SBC 2022 regional Bauru ( Cod3rs ) <br>
 
 
@@ -20,13 +20,13 @@
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" height="40" width="40">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" width="40">
 
  </div>
  
 # :books: Tecnologias que estou aprendendo :books: ##
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" width="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40">
