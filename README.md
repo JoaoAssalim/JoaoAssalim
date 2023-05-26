@@ -13,7 +13,7 @@
 🏅 19º colocado do InterFatecs 2022 ( Cod3rs ) <br>
 🥇 Campeão Hackathon NASA 2022 Regional ( ClimAgro ) <br>
 🏅 SBC 2022 regional Bauru ( Cod3rs ) <br>
-🏅 Campeão IV Maratona Fatec Ourinhos ( Você é fraco, lhe falta O(1) ) <br>
+🏅 Campeão VI Maratona Fatec Ourinhos ( Você é fraco, lhe falta O(1) ) <br>
 
 
 
