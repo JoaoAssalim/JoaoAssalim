@@ -1,23 +1,23 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DA22FF&height=90&section=header"/>
 
 
-# :space_invader: Falaa ai dev, sou o João Assalim :space_invader:
+# :space_invader: Hey dev, I'm João Assalim :space_invader:
 
- __💻 FullStack Developer Django e Programador Python/C++ <br>🤖 Estudando e conhecendo Inteligência Artificial e Machine Learning <br>📚 Cursando Fatec em Analise e desenvolvimento de sistemas <br>🏆 Programador Competitivo<br>__
+__💻 Backend Developer Django and Python/C++ Programmer <br>🤖 Studying and getting to know Artificial Intelligence and Machine Learning <br>📚 Attending Fatec in Systems Analysis and Development <br>🏆 Competitive Programmer<br>__
 
 
 </div>
 
-# :trophy: Competições que participei :trophy:
+# :trophy: Competitions I participated in :trophy:
 
-🏅 19º colocado do InterFatecs 2022 ( Cod3rs ) <br>
-🥇 Campeão Hackathon NASA 2022 Regional ( ClimAgro ) <br>
-🏅 Participação na SBC 2022 regional Bauru ( Cod3rs ) <br>
-🏅 Campeão VI Maratona Fatec Ourinhos ( Você é fraco, lhe falta O(1) ) <br>
+🏅 19th place in InterFatecs 2022 ( Cod3rs ) <br>
+🥇 Hackathon NASA 2022 Regional Champion ( ClimAgro ) <br>
+🏅 Participation in SBC 2022 regional Bauru ( Cod3rs ) <br>
+🏅 Champion VI Fatec Ourinhos Marathon ( You are weak, you lack O(1) ) <br>
 
 
 
-# :star: Tecnologias :star: ##
+# :star: Techs :star: ##
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" width="40">
@@ -28,7 +28,7 @@
 
  </div>
 
-### Conecte-se Comigo:
+### Connect with me:
 <div style="display: inline_block">
     <a href="https://instagram.com/joaoassalim_"><img src="https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=instagram&logoColor=purple" alt="joaoassalim_" /></a>
     <a href="https://www.linkedin.com/in/assalimjoao/"><img src="https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedIn&logoColor=blue" /></a>
