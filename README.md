@@ -3,7 +3,7 @@
 
 # :space_invader: Falaa ai dev, sou o João Assalim :space_invader:
 
- __💻 FullStack Developer Django e Programador Python/C++ <br>🤖 Estudando e conhecendo Inteligência Artificial e Machine Learning <br>📚 Cursando Fatec em Analise e desenvolvimento de sistemas <br>🏆 Progrador Competitivo<br>__
+ __💻 FullStack Developer Django e Programador Python/C++ <br>🤖 Estudando e conhecendo Inteligência Artificial e Machine Learning <br>📚 Cursando Fatec em Analise e desenvolvimento de sistemas <br>🏆 Programador Competitivo<br>__
 
 
 </div>
