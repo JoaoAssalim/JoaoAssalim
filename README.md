@@ -13,7 +13,8 @@ __💻 Backend Developer Django and Python/C++ Programmer <br>🤖 Studying and 
 🏅 19th place in InterFatecs 2022 ( Cod3rs ) <br>
 🥇 Hackathon NASA 2022 Regional Champion ( ClimAgro ) <br>
 🏅 Participation in SBC 2022 regional Bauru ( Cod3rs ) <br>
-🏅 Champion VI Fatec Ourinhos Marathon ( You are weak, you lack O(1) ) <br>
+🏅 Champion VI Fatec Ourinhos Marathon ( Você é fraco, lhe falta O(1) ) <br>
+🏅 Participation in SBC 2023 regional Bauru ( stultus asinis ) <br>
 
 
 
