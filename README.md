@@ -17,7 +17,7 @@ __💻 Backend Developer Django and Python/C++ Programmer <br>🤖 Studying and 
 🏅 Participation in SBC 2023 regional Bauru ( stultus asinis ) <br>
 
 
-# :trophy: Competitions Coding Pages Ranking :trophy:
+# 📚 Competitions Coding Pages Ranking 📚
 
 🏅 <a href="https://www.beecrowd.com.br/judge/pt/profile/635834">Beecrowd</a> 1st place at Fatec Ourinhos and 48th place in the world<br>
 🥇 <a href="https://leetcode.com/JoaoAssalim/">LeetCode</a> 1,021,599th place in the world<br>
