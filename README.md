@@ -3,7 +3,7 @@
 
 # :space_invader: Hey dev, I'm João Assalim :space_invader:
 
-__💻 Backend Developer Django and Python/C++ Programmer <br>🤖 Studying and getting to know Artificial Intelligence and Machine Learning <br>📚 Attending Fatec in Systems Analysis and Development <br>🏆 Competitive Programmer<br>__
+__💻 Backend Developer Django and Python/C++ Programmer <br>🤖 Learning Artificial intelligence <br>📚 Attending Fatec in Systems Analysis and Development <br>🏆 Competitive Programmer<br>__
 
 
 </div>
