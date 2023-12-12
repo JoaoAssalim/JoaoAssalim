@@ -1,14 +1,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DA22FF&height=90&section=header"/>
 
 
-# :space_invader: Hey dev, I'm João Assalim :space_invader:
+# 🖥️ Hey dev, I'm João Assalim 🖥️
 
 __💻 Backend Developer Django and Python/C++ Programmer <br>🤖 Learning Artificial intelligence <br>📚 Attending Fatec in Systems Analysis and Development <br>🏆 Competitive Programmer<br>__
 
 
 </div>
 
-# :trophy: Competitions I participated in :trophy:
+# 🏆 Competitions I participated in 🏆
 
 🏅 19th place in InterFatecs 2022 ( Cod3rs ) <br>
 🏅 Hackathon NASA 2022 Regional Champion ( ClimAgro ) <br>
