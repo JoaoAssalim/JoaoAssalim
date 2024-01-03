@@ -19,7 +19,7 @@ __💻 Backend Developer Django and Python/C++ Programmer <br>🤖 Learning Arti
 
 # 📚 Competitions Coding Pages Ranking 📚
 
-🏅 <a href="https://www.beecrowd.com.br/judge/pt/profile/635834">Beecrowd</a> 1st place at Fatec Ourinhos and 48th place in the world<br>
+🏅 <a href="https://www.beecrowd.com.br/judge/pt/profile/635834">Beecrowd</a> 1st place at Fatec Ourinhos and 51th place in the world<br>
 🥇 <a href="https://leetcode.com/JoaoAssalim/">LeetCode</a> 991,124th place in the world<br>
 🥇 <a href="https://codeforces.com/profile/Assalim">CodeForces</a> 1st place at Fatec Ourinhos and 130249th place in the world<br>
 
