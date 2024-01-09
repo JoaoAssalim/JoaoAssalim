@@ -21,7 +21,14 @@
 - 🥇 [CodeForces](https://codeforces.com/profile/Assalim) 1st place at Fatec Ourinhos and 130,249th place in the world
 
 # :star: Techs :star:
-- Python, C++, Django, TensorFlow, Pandas, Git
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" width="40">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40">
+  
+ </div>
 
 ### Connect with me:
 - [Instagram](https://instagram.com/joaoassalim_)
