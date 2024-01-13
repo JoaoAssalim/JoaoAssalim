@@ -8,11 +8,11 @@
 
 # 🏆 Competitions I participated in 🏆
 
-- 🏅 19th place in [InterFatecs 2022](link_to_interfatecs) (Cod3rs)
+- 🏅 19th place in InterFatecs 2022 (Cod3rs)
 - 🏅 Hackathon NASA 2022 Regional Champion (ClimAgro)
-- 🥇 Participation in [SBC 2022](link_to_sbc) regional Bauru (Cod3rs)
+- 🥇 Participation in SBC 2022 regional Bauru (Cod3rs)
 - 🏅 Champion VI Fatec Ourinhos Marathon 2023 (Você é fraco, lhe falta O(1))
-- 🥇 Participation in [SBC 2023](link_to_sbc) regional Bauru (stultus asinis)
+- 🥇 Participation in SBC 2023 regional Bauru (stultus asinis)
 
 # 📚 Competitions Coding Pages Ranking 📚
 
