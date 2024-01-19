@@ -1,7 +1,8 @@
 # 🖥️ Hey dev, I'm João Assalim 🖥️
 
 ## About Me
-- 💻 Backend Developer Django and Python/C++ Programmer
+- 💻 Backend Developer - Django and Python/C++
+- 📱 Mobile Developer - React Native
 - 🤖 Learning Artificial intelligence
 - 📚 Attending Fatec in Systems Analysis and Development
 - 🏆 Competitive Programmer
@@ -27,6 +28,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" width="40">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40">
+
   
  </div>
 
