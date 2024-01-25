@@ -9,7 +9,8 @@
 
 # 🏆 Competitions I participated in 🏆
 
-- 🏅 19th place in InterFatecs 2022 (Cod3rs)
+- 🥇 19th place in InterFatecs 2022 (Cod3rs)
+- 🥇 17th place in InterFatecs 2023 (Você é fraco, lhe falta O(1))
 - 🏅 Hackathon NASA 2022 Regional Champion (ClimAgro)
 - 🥇 Participation in SBC 2022 regional Bauru (Cod3rs)
 - 🏅 Champion VI Fatec Ourinhos Marathon 2023 (Você é fraco, lhe falta O(1))
