@@ -16,6 +16,12 @@
 - 🏅 Champion VI Fatec Ourinhos Marathon 2023 (Você é fraco, lhe falta O(1))
 - 🥇 Participation in SBC 2023 regional Bauru (stultus asinis)
 
+# 💻 Projects I developed 📱
+
+- Weapon and Knive Detector in Realtime (OpenCV, YOLOv8, ultralitcs, wavelets)
+- [CityOn](https://play.google.com/store/apps/details?id=com.assatech.cityon&pcampaignid=web_share) - App for Smart Cities (React Native for mobile and Django for web)
+- Text classification using NLP for real world texts (sklearn)
+
 # 📚 Competitions Coding Pages Ranking 📚
 
 - 🏅 [Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/635834) 1st place at Fatec Ourinhos and 51st place in the world
