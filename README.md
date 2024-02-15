@@ -46,6 +46,7 @@
 - [LinkedIn](https://www.linkedin.com/in/assalimjoao/)
 - [Kaggle](https://www.kaggle.com/joaoassalim)
 - [Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/635834)
+- [LeetCode](https://leetcode.com/JoaoAssalim/)
 
 ## GitHub Stats
 ![JoaoAssalim's Stats](https://github-readme-stats.vercel.app/api?username=JoaoAssalim&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
