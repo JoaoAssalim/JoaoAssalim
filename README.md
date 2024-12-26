@@ -64,8 +64,6 @@
 - [Instagram](https://instagram.com/joaoassalim_)
 - [LinkedIn](https://www.linkedin.com/in/assalimjoao/)
 - [Kaggle](https://www.kaggle.com/joaoassalim)
-- [Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/635834)
-- [LeetCode](https://leetcode.com/JoaoAssalim/)
 
 ---
 
