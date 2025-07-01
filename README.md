@@ -2,8 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DA22FF&height=90&section=header"/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JoaoAssalim&theme=onedark)](https://github.com/JoaoAssalim/github-profile-trophy)
-
 ## 👋 About Me
 - 💻 **Backend and AI Developer**
 - 🤖 Passionate about Artificial Intelligence, Machine Learning, LLMs, and Agentic AIs
