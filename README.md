@@ -1,69 +1,68 @@
-# 🖥️ Hey there, I'm João Assalim! 🖥️
+# 🧠 Hey there, I'm João Assalim!  
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DA22FF&height=90&section=header"/>
 
 ## 👋 About Me
-- 💻 **Backend and AI Developer**
-- 🤖 Passionate about Artificial Intelligence, Machine Learning, LLMs, and Agentic AIs
-- 📚 Studying **Systems Analysis and Development** at Fatec
-- 🏆 Competitive Programmer with a knack for problem-solving
+- 💻 **Backend & AI Developer**  
+- 🧠 Focused on **Generative AI**, **LLMs**, and **AI Agents**  
+- 🎓 **Graduated in Systems Analysis and Development** – FATEC Ourinhos  
+- ☁️ **AWS Certified AI Practitioner**  
+- 🏆 Passionate **Competitive Programmer** and problem-solver  
+
+I’m driven by the intersection between **software engineering** and **artificial intelligence**, creating systems that combine **automation, scalability, and intelligence**.  
 
 ---
 
 ## 🏆 Competitions & Achievements
 
 ### **Programming Competitions**
-- 🥇 **19th Place**: InterFatecs 2022 (Team: Cod3rs)
-- 🥇 **17th Place**: InterFatecs 2023 (Team: Você é fraco, lhe falta O(1))
-- 🏅 **Hackathon NASA 2022 Regional Champion** (Project: ClimAgro)
-- 🥇 Participation in **SBC Regional Programming Contest**: 2022 & 2023 (Team: Cod3rs)
-- 🏅 Champion: **Fatec Ourinhos Programming Marathon** (2023 & 2024)
+- 🥇 **Champion – XIII InterFatecs Programming Marathon (2025)**  
+- 🥇 **1st Place – VI FATEC Ourinhos Programming Marathon (2023 & 2024)**  
+- 🏅 **Top 7 – XII InterFatecs Programming Marathon (2024)**  
+- 🥇 **Hackathon NASA 2022 – Regional Champion (Project: ClimAgro)**  
+- 🏅 Participation in **SBC Regional Programming Contests (2022 & 2023)**  
 
 ### **Coding Platforms Rankings**
-- 🏅 **Beecrowd**: 1st place at Fatec Ourinhos, 51st worldwide  
-  [Profile](https://www.beecrowd.com.br/judge/pt/profile/635834)
-- 🥇 **LeetCode**: Ranked 991,124th globally  
-  [Profile](https://leetcode.com/JoaoAssalim/)
-- 🥇 **Codeforces**: 1st place at Fatec Ourinhos, 130,249th globally  
-  [Profile](https://codeforces.com/profile/Assalim)
+- 🥇 **Beecrowd:** 1st at FATEC Ourinhos, 51st worldwide  
+  🔗 [Profile](https://www.beecrowd.com.br/judge/pt/profile/635834)  
+- 🧩 **LeetCode:** Ranked 991,124th globally  
+  🔗 [Profile](https://leetcode.com/JoaoAssalim/)  
+- 🧠 **Codeforces:** 1st at FATEC Ourinhos, 130,249th globally  
+  🔗 [Profile](https://codeforces.com/profile/Assalim)  
 
 ---
 
-## 💻 Projects & Portfolio
+## 💻 Featured Projects
 
-### **Notable Projects**
-- **Weapon and Knife Detector in Real-Time**
-  - Tools: OpenCV, YOLOv8, ultralytics, wavelets
-  - Application: Real-time surveillance and safety systems
+### **🔫 Weapon & Knife Detector (Real-Time)**
+- **Stack:** OpenCV, YOLOv8, Ultralytics, Wavelets  
+- **Goal:** Real-time object detection focused on public safety and monitoring  
 
-- **[CityOn](https://play.google.com/store/apps/details?id=com.assatech.cityon&pcampaignid=web_share)**
-  - App for Smart Cities
-  - Stack: React Native (mobile), Django (web backend)
+### **🏙️ [CityOn](https://play.google.com/store/apps/details?id=com.assatech.cityon&pcampaignid=web_share)**
+- **Stack:** React Native (mobile), Django (backend)  
+- **Goal:** Smart city app improving urban management and citizen experience  
 
-- **Text Classification using NLP**
-  - Application: Real-world text analysis
-  - Tools: sklearn, TensorFlow
+### **🧾 Text Classification using NLP**
+- **Stack:** TensorFlow, scikit-learn, Pandas  
+- **Goal:** Intelligent text analysis and categorization for automation systems  
 
 ---
 
-## 🌟 Tech Skills
+## ⚙️ Tech Stack
 
-### Languages
-
+### **Languages**
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40"/>
 </div>
 
-### Databases
-
+### **Databases**
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40"/>
 </div>
 
-### Frameworks
-
+### **Frameworks & Libraries**
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" width="40"/>
@@ -71,24 +70,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="40"/>
-
 </div>
 
-### Tools and others stacks
-
+### **Tools & Cloud**
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" width="40"/>
 </div>
 
 ---
 
 ## 📞 Connect With Me
-- [Instagram](https://instagram.com/joaoassalim_)
-- [LinkedIn](https://www.linkedin.com/in/assalimjoao/)
-- [Kaggle](https://www.kaggle.com/joaoassalim)
+🌐 [LinkedIn](https://www.linkedin.com/in/assalimjoao/)  
+📸 [Instagram](https://instagram.com/joaoassalim_)  
+📊 [Kaggle](https://www.kaggle.com/joaoassalim)  
+💻 [GitHub](https://github.com/JoaoAssalim)  
 
 ---
 
@@ -99,4 +98,3 @@
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DA22FF&height=90&section=footer"/>
-
