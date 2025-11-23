@@ -3,13 +3,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DA22FF&height=90&section=header"/>
 
 ## 👋 About Me
-- 💻 **Backend & AI Developer**  
-- 🧠 Focused on **Generative AI**, **LLMs**, and **AI Agents**  
-- 🎓 **Graduated in Systems Analysis and Development** – FATEC Ourinhos  
-- ☁️ **AWS Certified AI Practitioner**  
-- 🏆 Passionate **Competitive Programmer** and problem-solver  
 
-I’m driven by the intersection between **software engineering** and **artificial intelligence**, creating systems that combine **automation, scalability, and intelligence**.  
+- 💻 **Backend & AI Developer**
+- 🤖 Focused on **LLMs**, **AI Agents**, and **LLM OS**
+- 🧠 Currently researching **Generative AI**, agent architectures, and applied machine learning
+- 🎓 Graduated in **Systems Analysis and Development – FATEC Ourinhos**
+- ☁️ **AWS Certified AI Practitioner**
+- 🏆 Strong background in **competitive programming** and problem solving
+- 📚 Continuously studying **Applied Mathematics for Machine Learning** (Linear Algebra, Calculus, Probability & Statistics) and **Traditional ML foundations**
 
 ---
 
@@ -34,17 +35,33 @@ I’m driven by the intersection between **software engineering** and **artifici
 
 ## 💻 Featured Projects
 
-### **🔫 Weapon & Knife Detector (Real-Time)**
+### 🔫 Weapon & Knife Detector (Real-Time)
 - **Stack:** OpenCV, YOLOv8, Ultralytics, Wavelets  
-- **Goal:** Real-time object detection focused on public safety and monitoring  
+- **About:** Real-time detection system for knives and firearms, built with modern computer vision techniques.
 
-### **🏙️ [CityOn](https://play.google.com/store/apps/details?id=com.assatech.cityon&pcampaignid=web_share)**
-- **Stack:** React Native (mobile), Django (backend)  
-- **Goal:** Smart city app improving urban management and citizen experience  
+---
 
-### **🧾 Text Classification using NLP**
+### 🏙️ CityOn – Smart City App
+- **Stack:** React Native · Django  
+- **About:** Mobile solution designed to improve urban management, public services, and communication between citizens and local authorities.  
+- 🔗 [Available on Google Play](https://play.google.com/store/apps/details?id=com.assatech.cityon&pcampaignid=web_share)
+
+---
+
+### 🧾 Text Classification – NLP
 - **Stack:** TensorFlow, scikit-learn, Pandas  
-- **Goal:** Intelligent text analysis and categorization for automation systems  
+- **About:** Intelligent text classification pipeline for automated document processing and semantic analysis.
+
+---
+
+### 🤖 Intelligent Bots & AI Agents
+- WhatsApp automation bot built with **FastAPI**, supporting user onboarding, construction-project tracking, cost storage, and interactive conversational flows.
+
+---
+
+### 🧬 PydanticAI & LLM Agents
+- Experiments involving agentic systems, nested Pydantic models, retrieval workflows, tool-using agents, and automation pipelines powered by LLMs.
+- 🔗 [Available on Github Repo](https://github.com/JoaoAssalim/AgenticVerse)
 
 ---
 
