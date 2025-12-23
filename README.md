@@ -38,28 +38,10 @@
 ### 🔫 Weapon & Knife Detector (Real-Time)
 - **Stack:** OpenCV, YOLOv8, Ultralytics, Wavelets  
 - **About:** Real-time detection system for knives and firearms, built with modern computer vision techniques.
-
+- 🔗 [Available on Github Repo](https://github.com/JoaoAssalim/Weapons-and-Knives-Detector-with-YOLOv8)
 ---
 
-### 🏙️ CityOn – Smart City App
-- **Stack:** React Native · Django  
-- **About:** Mobile solution designed to improve urban management, public services, and communication between citizens and local authorities.  
-- 🔗 [Available on Google Play](https://play.google.com/store/apps/details?id=com.assatech.cityon&pcampaignid=web_share)
-
----
-
-### 🧾 Text Classification – NLP
-- **Stack:** TensorFlow, scikit-learn, Pandas  
-- **About:** Intelligent text classification pipeline for automated document processing and semantic analysis.
-
----
-
-### 🤖 Intelligent Bots & AI Agents
-- WhatsApp automation bot built with **FastAPI**, supporting user onboarding, construction-project tracking, cost storage, and interactive conversational flows.
-
----
-
-### 🧬 PydanticAI & LLM Agents
+### 🧬 Agentic verse
 - Experiments involving agentic systems, nested Pydantic models, retrieval workflows, tool-using agents, and automation pipelines powered by LLMs.
 - 🔗 [Available on Github Repo](https://github.com/JoaoAssalim/AgenticVerse)
 
