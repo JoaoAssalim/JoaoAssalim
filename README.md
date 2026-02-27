@@ -92,10 +92,4 @@
 
 ---
 
-## 📊 GitHub Stats
-![JoaoAssalim's Stats](https://github-readme-stats.vercel.app/api?username=JoaoAssalim&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![JoaoAssalim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAssalim&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
----
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DA22FF&height=90&section=footer"/>
